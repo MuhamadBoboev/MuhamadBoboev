@@ -6,7 +6,7 @@
 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-	![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)a
+	![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuhamadBoboev&theme=%D0%B4%D0%B5%D1%84%D0%BE%D0%BB%D1%82&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
