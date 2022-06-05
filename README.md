@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadBoboev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhamadBoboev&repo=remontrix)][(https://muhamadboboev.github.io/remontrix/)](https://github.com/MuhamadBoboev/remontrix))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhamadBoboev&repo=remontrix)](https://github.com/MuhamadBoboev/remontrix))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhamadBoboev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhamadBoboev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhamadBoboev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
