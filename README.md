@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://hh.ru/resume/b48d204fff0b8689e20039ed1f6d7077623950" target="_blank">Muhammad</a> 
+<h1 align="center">Hi there, I'm <a href="https://hh.ru/resume/b48d204fff0b8689e20039ed1f6d7077623950" target="_blank">Said</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Начинающий фронтенд-разработчик</h3>
+<h3 align="center">фронтенд-разработчик</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%D0%B4%D0%BB%D1%8F+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%3A+--%3E)](https://git.io/typing-svg)
 	![React](https://img.shields.io/badge/react-hotpink.svg?style=for-the-badge&logo=React&logoColor=white)
